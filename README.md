@@ -89,5 +89,5 @@ Using Pytest : pytest --cov=rich --cov-branch tests/
 
 -New coverage
 <p>
-  <img src="imgs/coverage_enhanced.PNG)" alt="new_coverage">
+  <img src="imgs/coverage_enhanced.PNG" alt="new_coverage">
 </p>
