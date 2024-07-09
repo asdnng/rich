@@ -70,7 +70,9 @@ Using Pytest : pytest --cov=rich --cov-branch tests/
 <State the coverage improvement with a number and elaborate on why the coverage is improved>
 
 -Improvement with a number 
-![Percentage_of_new_coverage](imgs/edit2-2.PNG)
+<p>
+  <img src="imgs/edit2-2.PNG" alt="Percentage_of_new_coverage">
+</p>
 
 -  This function also has 100% test coverage after enhancement after I added some additional test cases like the first one. Before the improvement, coverage of this function was 71%
 
@@ -78,8 +80,10 @@ Using Pytest : pytest --cov=rich --cov-branch tests/
 
 <Provide a screenshot of the old coverage results by running an existing tool (the same as you already showed at the beginning of the report)>
 
+-Old coverage
 ![Coverage_Origin](imgs/coverage_origin.PNG)
 
 <Provide a screenshot of the new coverage results by running the existing tool using all test modifications>
 
+-New coverage
 ![Coverage_New](imgs/coverage_enhanced.PNG)
