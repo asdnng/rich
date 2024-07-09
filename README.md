@@ -34,14 +34,17 @@ Using Pytest : pytest --cov=rich --cov-branch tests/
 
 <Provide a screenshot of the old coverage results for such function>
 
+-Old coverage
 ![Old_coverage](imgs/edit1.PNG)
 
 <Provide a screenshot of the new coverage results for such function>
 
+-New coverage
 ![New_coverage](imgs/edit1-1.PNG)
 
 <State the coverage improvement with a number and elaborate on why the coverage is improved>
 
+-Improvement with a number 
 ![Percentage_of_new_coverage](imgs/edit1-2.PNG)
 
 - The main reason for the improved coverage is that I added test cases and improved existing test cases to extend them to test all conditional branches. Previously, only some branches were tested, but I added test cases that could handle all input conditions so that each branch could be executed. So, coverage of the previous version was approximately 60%, after enhancement, I got 100% test coverage.
@@ -54,14 +57,17 @@ Using Pytest : pytest --cov=rich --cov-branch tests/
 
 <Provide a screenshot of the old coverage results for such function>
 
+-Old coverage
 ![Old_coverage](imgs/edit2.PNG)
 
 <Provide a screenshot of the new coverage results for such function>
 
+-New coverage
 ![New_coverage](imgs/edit2-1.PNG)
 
 <State the coverage improvement with a number and elaborate on why the coverage is improved>
 
+-Improvement with a number 
 ![Percentage_of_new_coverage](imgs/edit2-2.PNG)
 
 -  This function also has 100% test coverage after enhancement after I added some additional test cases like the first one. Before the improvement, coverage of this function was 71%
