@@ -6,7 +6,9 @@ Name: yujin choi
 
 URL: (https://github.com/asdnng/rich)
 
-Number of lines of code and the tool used to count it: Lizard, lines~
+Number of lines of code and the tool used to count it: Lizard
+
+![Lines](imgs/lizard.PNG)
 
 Programming language: python
 
