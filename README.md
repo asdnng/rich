@@ -81,9 +81,13 @@ Using Pytest : pytest --cov=rich --cov-branch tests/
 <Provide a screenshot of the old coverage results by running an existing tool (the same as you already showed at the beginning of the report)>
 
 -Old coverage
-![Coverage_Origin](imgs/coverage_origin.PNG)
+<p>
+  <img src="imgs/coverage_origin.PNG" alt="Percentage_of_new_coverage">
+</p>
 
 <Provide a screenshot of the new coverage results by running the existing tool using all test modifications>
 
 -New coverage
-![Coverage_New](imgs/coverage_enhanced.PNG)
+<p>
+  <img src="imgs/coverage_enhanced.PNG)" alt="Percentage_of_new_coverage">
+</p>
