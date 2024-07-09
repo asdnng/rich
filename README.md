@@ -4,7 +4,7 @@
 
 Name: yujin choi
 
-URL: (https://github.com/asdnng/rich)
+URL: (https://github.com/Textualize/rich)
 
 Number of lines of code and the tool used to count it: Lizard
 
